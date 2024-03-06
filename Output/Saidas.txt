@@ -1,0 +1,1 @@
+As imagens foram geradas corretamente, e estão na pasta inputs.
